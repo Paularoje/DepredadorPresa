@@ -1,5 +1,5 @@
 # DepredadorPresa
-Proyecto de la materia simulación digital
+Proyecto #1 de la materia de Simulación Digital.
 
 INTEGRANTES (EQUIPO #4):
 - Daniel Baez Acevedo -2182815
